@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamrobertson
+- 👋 Hi, I’m @Robertson Waweru
 - 👀 I’m interested in Analytics, Algorithm Analysis, Software Design and new Technologies
 - 🌱 I’m currently studying Electrical and Computer Engineering and Computer Science at Duke University
 - 💞️ I’m looking to collaborate on algorithm implementation and challenging projects.
